@@ -1,0 +1,1 @@
+!function(){!function(n){console.info(n,",un saludo")}(function(n){return n}("Nely"))}();
